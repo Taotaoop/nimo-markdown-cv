@@ -23,7 +23,7 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **University of Manitoba** `2018.9 -`
 
 ```
 Pittsburgh, PA
